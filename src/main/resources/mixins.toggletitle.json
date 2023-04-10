@@ -1,0 +1,11 @@
+{
+  "refmap": "mixins.toggletitle.refmap.json",
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "com.diamondgoobird.mixin",
+  "mixins": [
+    "GuiIngameForgeMixin"
+  ],
+  "client": [],
+  "server": []
+}

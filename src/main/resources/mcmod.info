@@ -1,0 +1,16 @@
+[
+{
+  "modid": "toggletitle",
+  "name": "Toggle Title",
+  "description": "Allows you to toggle titles on and off.",
+  "version": "1.0",
+  "mcversion": "1.8.9",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Diamondgoobird"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
