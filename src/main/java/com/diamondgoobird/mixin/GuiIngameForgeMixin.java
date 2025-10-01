@@ -20,6 +20,5 @@ public class GuiIngameForgeMixin extends GuiIngame {
         if (!ToggleTitleMod.isEnabled()) {
             ci.cancel();
         }
-        System.out.print("It's enabled!");
     }
 }
